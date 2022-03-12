@@ -1,0 +1,8 @@
+<resources>
+    <string name="hello">Masukkan Nama dan Hobi</string>
+    <string name="app_name">Database nama dan hobby</string>
+    <string name="btnAddtxt">Tambah Data</string>
+    <string name="namaLabel">Nama</string>
+    <string name="hobiLabel">Hobi</string>
+    <string name="nomorLabel">No.</string>
+</resources>
